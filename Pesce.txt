@@ -1,5 +1,9 @@
 
 Strunz pe pe pe - Pesc bla bla bla - Rescigno non ti temo
 
+<<<<<<< HEAD
 Daniele aiutami con SO, dio cristo
+=======
+Daniele aiutami con SO  PORCO
+>>>>>>> origin/main
 
